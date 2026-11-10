@@ -1,0 +1,18 @@
+{
+    "manifest_version" :3,
+    "name":"Lead Tracker",
+    "version":"1.0",
+    "description":"A simple lead tracker for tracking your leads",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icons/icon16.png"
+    },
+    "icons":{
+        "128":"icons/icon128.png",
+        "48":"icons/icon48.png",
+        "16":"icons/icon16.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
